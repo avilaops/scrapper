@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "url": "https://vizzioengenharia.com.br/",
+    "extracted_at": "2026-03-09T23:45:51.058882",
+    "title": "Vizzio Engenharia | Projetos de Engenharia",
+    "description": "Vizzio Engenharia - Projetos de Engenharia de forma única e incomparável! Estruturas em Madeira, Concreto armado e Protendido; Fundações; Instalações Hidráulicas e Elétricas. Tudo em BIM e compatibilizado internamente!",
+    "keywords": ""
+  },
+  "header": {
+    "logo": "https://static.wixstatic.com/media/1ded48_5120e38f80014ec6aee6a5f7c847195d~mv2.jpg/v1/fill/w_193,h_127,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_5120e38f80014ec6aee6a5f7c847195d~mv2.jpg",
+    "menu": [
+      {
+        "text": "Início",
+        "url": "https://www.vizzioengenharia.com.br"
+      },
+      {
+        "text": "Projetos",
+        "url": "https://www.vizzioengenharia.com.br/registration"
+      },
+      {
+        "text": "Quem somos",
+        "url": "https://www.vizzioengenharia.com.br/quem-somos"
+      },
+      {
+        "text": "Contato",
+        "url": "https://www.vizzioengenharia.com.br/contato"
+      }
+    ]
+  },
+  "hero": {
+    "title": "",
+    "subtitle": "",
+    "image": "",
+    "cta_buttons": []
+  },
+  "sections": [
+    {
+      "type": "heading_2",
+      "content": "Missão"
+    },
+    {
+      "type": "heading_2",
+      "content": "Visão"
+    },
+    {
+      "type": "heading_2",
+      "content": "Valores"
+    }
+  ],
+  "services": [],
+  "about": {
+    "title": "",
+    "description": "",
+    "images": []
+  },
+  "contact": {
+    "phone": [
+      "+55 (17) 99600-3173"
+    ],
+    "email": [
+      "info@meusite.com"
+    ],
+    "address": "",
+    "social_media": [
+      {
+        "network": "Instagram",
+        "url": "https://instagram.com/vizzioengenharia?igshid=ZDdkNTZiNTM="
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2021 Vizzio Engenharia.",
+    "links": [
+      {
+        "text": "Termos e Condições",
+        "url": "https://wa.me/5517996003173?text=Excelente%20dia!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AAs!"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "mailto:info@meusite.com"
+      },
+      {
+        "text": "Política de Cookies",
+        "url": "https://instagram.com/vizzioengenharia?igshid=ZDdkNTZiNTM="
+      }
+    ],
+    "copyright": ""
+  },
+  "all_images": [
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png/v1/fill/w_158,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png/v1/fill/w_158,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png/v1/fill/w_158,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_5120e38f80014ec6aee6a5f7c847195d~mv2.jpg/v1/fill/w_193,h_127,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_5120e38f80014ec6aee6a5f7c847195d~mv2.jpg",
+      "alt": "Projetos de Engenharia",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_bbd9e2f15ea34742934c70f0a543eb8a~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1ded48_bbd9e2f15ea34742934c70f0a543eb8a~mv2.jpg",
+      "alt": "IMG-20240725-WA0044.jpg",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_12309908100f4857848134652ff6d9b5f000.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1ded48_12309908100f4857848134652ff6d9b5f000.jpg",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_8fef957f202944f5a4820c6fb0a7dae2~mv2.jpg/v1/fill/w_122,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1ded48_8fef957f202944f5a4820c6fb0a7dae2~mv2.jpg",
+      "alt": "Renders Biri - Clara e Leo_1 - Sunny.jpg",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_2f2d893eeefc43558828c402b392b446f000.jpg/v1/fill/w_123,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1ded48_2f2d893eeefc43558828c402b392b446f000.jpg",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_0104f08e8bcb4068ae63bfd16f3d835f~mv2.jpg/v1/fill/w_103,h_60,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1ded48_0104f08e8bcb4068ae63bfd16f3d835f~mv2.jpg",
+      "alt": "Imagem do WhatsApp de 2023-09-30 à(s) 11.14_edited.jpg",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d8e30b41b9fc4a0ab1827e0d74a9c77b~mv2.jpg/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/1ded48_d8e30b41b9fc4a0ab1827e0d74a9c77b~mv2.jpg",
+      "alt": "M1",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_0104f08e8bcb4068ae63bfd16f3d835f~mv2.jpg/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/1ded48_0104f08e8bcb4068ae63bfd16f3d835f~mv2.jpg",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_6b7542cae5d543f09e426165c7a7cbb2~mv2.jpg/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/1ded48_6b7542cae5d543f09e426165c7a7cbb2~mv2.jpg",
+      "alt": "F2",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_e29c6b0da07f427496c2b58a664d260a~mv2.png/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/1ded48_e29c6b0da07f427496c2b58a664d260a~mv2.png",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_f6a8e50db9904f00bbe23d8df7abf7fc~mv2.jpg/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/1ded48_f6a8e50db9904f00bbe23d8df7abf7fc~mv2.jpg",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png",
+      "alt": "",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_55e4be1e75564866b6c28290f9a9d271~mv2.png",
+      "alt": "Instagram",
+      "type": "image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png/v1/fill/w_25,h_25,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1ded48_d42c3a9469394a2c85e286b42a3eb049~mv2.png",
+      "alt": "",
+      "type": "image"
+    }
+  ],
+  "all_links": [
+    {
+      "url": "https://wa.me/5517996003173?text=Excelente%20dia!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AAs!",
+      "text": "Termos e Condições",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br",
+      "text": "Política de Privacidade",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/registration",
+      "text": "Política de Cookies",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/quem-somos",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/contato",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://wa.me/5517996003173?text=Excelente%20dia!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AAs!",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "mailto:info@meusite.com",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://instagram.com/vizzioengenharia?igshid=ZDdkNTZiNTM=",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://wa.me/5517996003173?text=Excelente%20dia!%20Gostaria%20de%20fazer%20um%20or%C3%A7amento%20com%20voc%C3%AAs!",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/termos-e-condições",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/política-de-privacidade",
+      "text": "",
+      "type": "link"
+    },
+    {
+      "url": "https://www.vizzioengenharia.com.br/política-de-cookies",
+      "text": "",
+      "type": "link"
+    }
+  ],
+  "all_texts": [
+    "A Vizzio Engenharia está comprometida em desenvolver projetos únicos incorporando tecnologia de maneira integrada e inigualável aos clientes e arquitetos parceiros.",
+    "Ser reconhecida como uma empresa de excelência no mercado brasileiro e internacional desenvolvendo projetos únicos de engenharia com a incorporação de tecnologias inovadoras, processos eficientes e com o compromisso de aperfeiçoamento contínuo.",
+    "Capacidade para aceitar grandes desafios e conduzi-los até ao final de forma Integra.",
+    "Atitude crítica, dedicação para com a qualidade e melhoramento pessoal de maneira inovadora.",
+    "Assumir plena responsabilidade dos compromissos, resultados e da qualidade e excelência perante os clientes, colaboradores e parceiros.",
+    "© 2021 Vizzio Engenharia."
+  ]
+}

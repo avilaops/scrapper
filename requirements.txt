@@ -1,0 +1,19 @@
+# Core Scrapling with all features
+scrapling[all]>=0.3.0
+
+# Web Interface
+streamlit>=1.31.0
+
+# Image processing and OCR
+pytesseract>=0.3.10
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Data manipulation
+pandas>=2.0.0
+
+# Visualization for website analyzer
+plotly>=5.0.0
+
+# Optional: Additional useful packages for web scraping
+# opencv-python>=4.8.0  # For advanced image processing
